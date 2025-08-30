@@ -5,6 +5,9 @@ A Game Of Minesweeper Developed In C++ OpenGL. The Game Has All The Features Of 
 
 -----------
 
+<img src="https://github.com/user-attachments/assets/cf55b770-0501-4c1b-bb83-4de32025d426" alt="Cornstarch <3" width="65" height="59"> <img src="https://github.com/user-attachments/assets/cf55b770-0501-4c1b-bb83-4de32025d426" alt="Cornstarch <3" width="65" height="59"> <img src="https://github.com/user-attachments/assets/cf55b770-0501-4c1b-bb83-4de32025d426" alt="Cornstarch <3" width="65" height="59"> <img src="https://github.com/user-attachments/assets/cf55b770-0501-4c1b-bb83-4de32025d426" alt="Cornstarch <3" width="65" height="59"> 
+
+
 <h3>🔍 The Breakdown:</h3>
 
 
